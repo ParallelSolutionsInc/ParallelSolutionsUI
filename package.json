@@ -1,0 +1,16 @@
+{
+  "name": "parallel_solutions",
+  "version": "1.0.0",
+  "description": "Thanks for downloading this theme!",
+  "main": "index.html",
+  "scripts": {
+    "start": "node ./server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "fs": "0.0.1-security",
+    "http": "0.0.0"
+  }
+}

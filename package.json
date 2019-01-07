@@ -4,7 +4,7 @@
   "description": "Thanks for downloading this theme!",
   "main": "index.html",
   "scripts": {
-    "start": "node ./server.js"
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",

@@ -3,4 +3,3 @@ steps:
     args: ['install']
   - name: 'gcr.io/cloud-builders/npm'
     args: ['start']
-    dir: 'ParallelSolutionsUI/'

@@ -7,5 +7,5 @@ app.set('port', port);
 app.get('/',function(req,res) {
     res.sendFile(__dirname + '/public' + "/index.html");
 });
-console.log('asdfasdfasdf made it here');
+console.log('****made it here');
 app.listen(port);

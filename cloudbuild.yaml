@@ -7,4 +7,4 @@ steps:
     args: ['testbuildstep']
   - name: 'gcr.io/cloud-builders/npm'
     args: ['start']
-    timeout: 300s
+    timeout: 600s

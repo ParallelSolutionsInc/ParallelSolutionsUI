@@ -4,7 +4,7 @@
   "description": "Thanks for downloading this theme!",
   "main": "index.html",
   "scripts": {
-    "testbuildstep": "./ParallelSolutionsUI/server.js",
+    "testbuildstep": "./server.js",
     "start": "node ./server.js"
   },
   "author": "",

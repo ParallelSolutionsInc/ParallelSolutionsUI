@@ -4,8 +4,8 @@
   "description": "Thanks for downloading this theme!",
   "main": "index.html",
   "scripts": {
-    "testbuildstep": "node ./ParallelSolutionsUI/server.js",
-    "start": "node ./ParallelSolutionsUI/server.js"
+    "testbuildstep": "./ParallelSolutionsUI/server.js",
+    "start": "node ./server.js"
   },
   "author": "",
   "license": "ISC",
